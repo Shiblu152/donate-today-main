@@ -48,3 +48,47 @@ body {
     margin-top: 10px;
     border: none;
 }
+
+.donate-today {
+    text-align: center;
+    margin: 40px 0;
+}
+
+.donate-text {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.amount {
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+}
+
+.taka-button {
+    text-decoration: none;
+    padding: 25px;
+    margin: 0 30px;
+    border: none;
+    border-radius: 5px;
+}
+
+#special-amount {
+    background-color: rgb(236, 210, 205);
+    border: 2px solid tomato;
+}
+
+.donate-now {
+    border: 2px solid gray;
+    width: 60%;
+    margin: auto;
+    margin-top: 15px;
+    margin-top: 10px 0;
+
+}
+
+.other-amount {
+    color: gray;
+    text-align: center;
+    margin-top: 70px;
+}
