@@ -79,7 +79,7 @@ body {
 }
 
 .donate-now {
-    border: 2px solid gray;
+    border: 1px solid gray;
     width: 60%;
     margin: auto;
     margin-top: 15px;
@@ -91,4 +91,43 @@ body {
     color: gray;
     text-align: center;
     margin-top: 70px;
+}
+
+.donate-plan {
+    text-align: center;
+    margin: 40px 0;
+
+}
+
+.donate-text {
+    text-align: center;
+}
+
+.cart {
+    display: flex;
+    justify-content: center;
+    margin: 50px 40px 0 40px;
+    padding: 0 30px;
+
+}
+
+.food {
+    margin: 0 40px;
+    padding: 30px;
+    background-color: rgb(182, 239, 220);
+    border-radius: 15px;
+}
+
+.shelter {
+    margin: 0 40px;
+    padding: 30px;
+    background-color: rgb(233, 160, 160);
+    border-radius: 15px;
+}
+
+.education {
+    margin: 0 40px;
+    padding: 30px;
+    background-color: rgb(226, 178, 143);
+    border-radius: 15px;
 }
