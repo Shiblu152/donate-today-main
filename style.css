@@ -151,3 +151,54 @@ body {
     width: 100%;
 
 }
+
+.get-update {
+    margin: 50px 0;
+    font-size: 30px;
+    text-align: center;
+}
+
+.own-text {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.email-input {
+    text-align: center;
+    margin: 30px 0;
+    background-color: rgba(240, 210, 205, 0.942);
+    margin: 0 450px;
+    padding: 60px 0;
+    margin-top: 40px;
+    border-radius: 15px;
+}
+
+.new-button {
+    padding: 0 10px;
+    background-image: linear-gradient(tomato, orange);
+    border-radius: 5px;
+}
+
+footer {
+    background-color: black;
+    padding: 50px 0;
+    margin-top: 20px;
+}
+
+footer h2 {
+    color: tomato;
+    text-align: center;
+}
+
+footer p {
+    color: aliceblue;
+    text-align: center;
+    padding-top: 10px;
+
+}
+
+footer h4 {
+    color: brown;
+    text-align: center;
+    padding-top: 10px;
+}
