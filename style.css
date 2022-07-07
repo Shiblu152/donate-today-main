@@ -131,3 +131,23 @@ body {
     background-color: rgb(226, 178, 143);
     border-radius: 15px;
 }
+
+.conrtibutor {
+    text-align: center;
+    margin-top: 30px;
+    font-size: 60px;
+}
+
+.bonus-part {
+    display: flex;
+    margin-top: 50px;
+    background-color: rgb(236, 224, 236);
+    padding: 50px;
+
+}
+
+.new-pic {
+    height: 100%;
+    width: 100%;
+
+}
